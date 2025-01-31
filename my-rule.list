@@ -1,10 +1,10 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,btorrent
 DOMAIN-KEYWORD,qbittorrent
+DOMAIN-KEYWORD,m-team
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,pt.btschool.club
-DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,tracker01.ilovelemonhd.me
 DOMAIN-SUFFIX,webservice.fanart.tv
 DOMAIN-SUFFIX,dht.libtorrent.org
