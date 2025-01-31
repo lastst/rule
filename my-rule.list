@@ -4,7 +4,7 @@ DOMAIN-KEYWORD,qbittorrent
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,pt.btschool.club
-DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,tracker01.ilovelemonhd.me
 DOMAIN-SUFFIX,webservice.fanart.tv
 DOMAIN-SUFFIX,dht.libtorrent.org
